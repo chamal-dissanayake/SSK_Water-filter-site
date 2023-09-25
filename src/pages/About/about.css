@@ -1,0 +1,539 @@
+.blog_container_about {
+  /* border: 1px solid #ccc;  */
+  margin: 100px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  border-radius: 20px;
+  /* Adjust the padding as needed */
+}
+.aboutBanner {
+  margin-top: 0px;
+}
+.videoElement {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.videoContainer {
+  position: relative;
+}
+.blurred {
+  filter: blur(6px);
+}
+
+.textOverlay {
+  position: absolute;
+  top: 38%;
+  left: 52%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.textOverlay h1 {
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  font-size: 50px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: #1354a4;
+}
+
+.about_Top_background {
+  margin-top: 20px;
+  background-color: #ffffff;
+}
+
+.about_Top h2 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Poppins", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #000000;
+}
+.about_Top p {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: black;
+}
+.black-text-vision {
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #1354a4;
+}
+.black-text5 {
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #1354a4;
+}
+
+.about_header {
+  margin-top: 30px;
+}
+.about_header img {
+  width: 60%;
+  margin-top: -50px;
+  margin-left: 40px;
+  margin-right: auto;
+}
+.Main_Blog{
+  margin-top: 20px;
+}
+.blog_header1 {
+  margin: auto;
+}
+.blog_header1 p {
+  font-size: 14px;
+  text-align: justify;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #464545;
+}
+
+.vimi {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-top: 140px;
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+.vimi:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+}
+
+.vimi h1 {
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: black;
+  margin-top: 20px;
+}
+
+.vimi p {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 2;
+  color: #464545;
+}
+.vimi img {
+  width: 120px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about_Top {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 120px;
+}
+
+.purpose_background {
+  margin-top: 140px;
+  background-color: #f8f8f8;
+  padding-bottom: 60px;
+}
+.purpose_background2 {
+  margin-top: 100px;
+  background-color: #f8f8f8;
+  padding-bottom: 60px;
+  margin-bottom: 200px;
+}
+
+.center-button1 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 100px;
+}
+
+.vision {
+  background-color: #a2bee5;
+  padding-bottom: 30px;
+  margin-top: 80px;
+  margin-bottom: 70px;
+}
+
+.mission {
+  background-color: #a2bee5;
+  padding-bottom: 30px;
+  margin-top: 120px;
+  margin-bottom: 70px;
+}
+
+.Philosophy {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Philosophy h1 {
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: center;
+  color: black;
+  margin-bottom: 30px;
+}
+.ChooseUs h1 {
+  margin-top: 160px;
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: center;
+  color: black;
+  margin-bottom: 30px;
+}
+.Philosophy1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+
+.purpose img {
+  width: 50%;
+  margin-right: auto;
+  align-content: center;
+}
+
+.purpose1 img {
+  width: 100%;
+  margin-right: auto;
+  align-content: center;
+  margin-bottom: 150px;
+}
+
+.Philosophy1 h1 {
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: center;
+  color: black;
+}
+.Philosophy p {
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.purpose {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.purpose1 {
+  margin: auto;
+}
+
+.purpose h5 {
+  margin: auto;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #1354a4;
+  margin-top: 20px;
+}
+
+.blog_header1 h6 {
+  text-align: center;
+  font-size: 45px;
+  line-height: 1.08349;
+  font-weight: 600;
+  letter-spacing: -0.003em;
+  font-family: "LEXEND", sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.companyImage img{
+  padding: 20px;
+  margin-left: 40px;
+  width: 200px;
+  height: auto;
+  margin-bottom: 100px;
+
+}
+.spline{
+  margin-top: 0px;
+  margin-bottom: -30px;
+  height: 80vh;
+}
+
+@media screen and (max-width: 1000px) {
+  .spline{
+    margin-top: -110px;
+    margin-bottom: 30px;
+    height: 40vh;
+  }
+
+  .blog_container_about {
+    /* border: 1px solid #ccc;  */
+    margin: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+ 
+    /* Adjust the padding as needed */
+  }
+  .Main_Blog{
+    margin-top: 20px;
+    margin-bottom: 140px;
+  }
+
+  .about_header {
+    margin-top: 30px;
+  }
+  .about_header img {
+    width: 100%;
+    margin-top: 0px;
+    margin-left: -20px;
+    margin-right: auto;
+  }
+  .vimi {
+    padding: 20px;
+    margin-top: 30px;
+  }
+  .vimi p {
+    font-size: 14px;
+    color: #464545;
+  }
+  .companyImage img{
+    padding: 20px;
+    margin-left: 10px;
+    width: 150px;
+    height: auto;
+    margin-bottom: 100px;
+  
+  }
+  
+}
+
+
+@media screen and (max-width: 575px) {
+.spline{
+  margin-top: -110px;
+  margin-bottom: 30px;
+  height: 40vh;
+}
+  .Main_Blog{
+    margin-top: 20px;
+    margin-bottom: 100px;
+  }
+  .aboutBanner {
+    margin-top: 25px;
+  }
+  .about_Top {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+  .vimi img {
+    width: 80px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .textOverlay {
+    display: none;
+  }
+  .blurred {
+    filter: blur(0px);
+  }
+  .about_Top_background {
+    margin-bottom: 40px;
+    margin-top: -10px;
+  }
+
+  .blog_container_about {
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    /* Adjust the padding as needed */
+  }
+  .about_Top h2 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .about_Top p {
+    font-size: 12px;
+    line-height: 2;
+  }
+  .Philosophy1 h1 {
+    margin-top: -140px;
+    font-size: 20px;
+    color: #070707 !important;
+    text-align: center;
+    font-family: "LEXEND", sans-serif;
+    margin-bottom: 50px;
+  }
+  .vimi h1 {
+    font-size: 20px;
+  }
+  .black-text-vision {
+    font-size: 20px;
+  }
+  
+  .vimi {
+    padding: 20px;
+    margin-top: 10px;
+  }
+  .vimi p {
+    font-size: 12px;
+    color: #464545;
+  }
+
+  .black-text5 {
+    font-size: 20px;
+  }
+  .center-button1 {
+    padding-right: 30px;
+  }
+  .about_header img {
+    width: 60%;
+    margin-top: -80px;
+    margin-right: auto;
+    margin-left: 75px;
+  }
+  .blog_header1 h6 {
+    font-size: 16px;
+    margin-top: 0px;
+  }
+  .blog_header1 p {
+    color: #464545;
+    font-size: 12px;
+    line-height: 2;
+    text-align: center;
+    margin-bottom: -60px;
+  }
+  .purpose_background {
+    margin-top: 60px;
+    background-color: #f8f8f8;
+    padding-bottom: 10px;
+    padding-top: -20px;
+  }
+  .purpose_background2 {
+    margin-top: 10px;
+    background-color: #f8f8f8;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+
+  .aboutBanner img {
+    height: 25vh;
+    max-width: 100%;
+  }
+
+  .logo_description p {
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: justify;
+    font-family: "LEXEND", sans-serif;
+  }
+  .Philosophy p {
+    font-size: 10px;
+    line-height: 1.4;
+    text-align: justify;
+    font-family: "LEXEND", sans-serif;
+  }
+  .ChooseUs h1 {
+    margin-top: 60px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .Philosophy {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .Philosophy h1 {
+    margin-top: 15px;
+    font-size: 20px;
+    color: #070707 !important;
+    text-align: center;
+    font-family: "LEXEND", sans-serif;
+  }
+  .WhyChose{
+    margin-top: 40px;
+  }
+
+  .weAreCollabarate{
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+
+  .vision {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+  }
+  .mission {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+  }
+  .purpose h5 {
+    margin: auto;
+    text-align: center;
+    font-size: 8px;
+  }
+  .purpose img {
+    margin-bottom: 10px;
+    margin-left: 0px;
+  }
+  .purpose1 img {
+    margin-bottom: 30px;
+    margin-top: -250px;
+  }
+  .purpose {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 8px;
+    margin-bottom: 20px;
+  }
+  .purpose1 {
+    margin-top: 0px;
+    text-align: center;
+    font-size: 8px;
+    margin-bottom: 20px;
+  }
+  .companyImage img{
+    padding: 20px;
+    margin-left: -10px;
+    margin-top: -150px;
+    width: 100px;
+    height: auto;
+    margin-bottom: 200px;
+  
+  }
+}
